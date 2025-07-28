@@ -43,3 +43,13 @@ Class detection is based on the member’s weapon name:
 > To perform real enchants, edit the script and change:
 ```js
 const dryRun = false;
+```
+
+## Log Output
+Dry-run results will appear in the browser console. Each member's gear actions are logged by slot and enchant.
+
+## Disclaimer
+This script interacts with the Manarion UI but abides by cooldowns and delays. Use responsibly and respect game rules.
+
+## Contributions
+Pull requests are welcome! If you'd like to enhance the script (UI overlay, filters, etc.), feel free to fork and contribute.
