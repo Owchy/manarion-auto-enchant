@@ -36,7 +36,7 @@ Class detection is based on the member’s weapon name:
 ## Installation
 
 1. Install the [Tampermonkey extension](https://tampermonkey.net/)
-2. Click [here to install the script](https://github.com/YOUR_USERNAME/manarion-auto-enchant/raw/main/manarion-auto-enchant.user.js)
+2. Click [here to install the script](https://github.com/Owchy/manarion-auto-enchant/raw/main/manarion-auto-enchant.user.js)
 3. Visit your Manarion guild page
 4. Click the **“Dry Run: Auto-Enchant”** button
 
