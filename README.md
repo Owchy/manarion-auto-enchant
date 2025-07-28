@@ -8,7 +8,7 @@ A smart [Tampermonkey](https://www.tampermonkey.net/) userscript that automates 
 ## Features
 
 - Detects class and role of each guild member based on weapon type
-- ⚔Applies valid enchants based on gear slot and class rules
+- Applies valid enchants based on gear slot and class rules
 - Elemental logic support for Battlers (Fire, Water, Nature)
 - Dry-run mode with console logging (safe testing)
 - Waits between actions to avoid triggering anti-bot detection
